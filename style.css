@@ -1,0 +1,36 @@
+.navbar-brand{
+    padding-left: 80px;
+}
+.d-flex{
+    padding-right: 80px;
+}
+.container{
+    height: 35vh;
+    width: 100%;
+    margin-top: 30px;
+    /* border: 2px; */
+    background-color:white;
+    display: flex;
+    justify-content: space-evenly;
+}
+.four{
+    display: flex;
+}
+.show{
+    margin-left: 14%;
+}
+.line img{
+    padding-left: 30px;
+    width: 730px;
+}
+.btn{
+    background-color: #1e90ff;
+    color: white;
+}
+.btn:hover{
+    border-radius: 55px;
+    background-color: pink;
+}
+p{
+    padding-left: 200px;
+}
